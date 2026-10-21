@@ -31,7 +31,6 @@ I enjoy turning complex infrastructure problems into simple, automated solutions
 
 - 🔧 Strong interest in **CI/CD, Cloud Infrastructure & Automation**
 - 🌍 Passionate about **reliability, scalability & clean systems design**
-- 🎓 Student at **Lagos State University (LASU)** & **AltSchool Africa**
 - 🛠️ Currently sharpening skills for **production-grade DevOps roles**
 
 ---
