@@ -82,7 +82,6 @@ I enjoy turning complex infrastructure problems into simple, automated solutions
 
 ## 📈 ACTIVITY GRAPH
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmsfay&theme=react-dark)
 
 ---
 
