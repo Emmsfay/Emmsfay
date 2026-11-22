@@ -80,10 +80,6 @@ I enjoy turning complex infrastructure problems into simple, automated solutions
 
 ---
 
-## 📈 ACTIVITY GRAPH
-
-
----
 
 ## 🌍 CONNECT WITH ME
 
